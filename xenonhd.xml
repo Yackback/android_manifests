@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <remote fetch="https://github.com/" name="gh" />
+  <project name="yackback/device_motorola_sanders" path="device/motorola/sanders" remote="gh" revision="xenonhd-o"/>
+  <project name="yackback/proprietary_vendor_motorola_sanders" path="vendor/motorola/sanders" remote="gh" revision="lineage-15.1" />
+  <project name="yackback/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="gh" revision="8.1-64" />
+  <project name="PixelExperience/packages_resources_MotoActions" path="packages/resources/MotoActions" remote="gh" revision="oreo-mr1" />
+</manifest>
