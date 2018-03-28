@@ -5,7 +5,7 @@
   
   <project name="yackback/device_motorola_sanders" path="device/motorola/sanders" remote="gh" revision="nitrogen-o2"/>
   <project name="BigTopKrazies/vendor_motorola_sanders" path="vendor/motorola/sanders" remote="gh" revision="8.1" />
-  <project name="alizekernel/alize_sanders" path="kernel/motorola/msm8953" remote="gh" revision="a8x-eas" />
+  <project name="yackback/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="gh" revision="8.1-64" />
 
   <project name="PixelExperience/prebuilts_gcc_linux-x86_aarch64_aarch64-linaro-7.2" path="prebuilts/gcc/linux-x86/aarch64/aarch64-linaro-7.2" remote="gl" revision="master"/>
   <project name="PixelExperience/packages_resources_MotoActions" path="packages/resources/MotoActions" remote="gh" revision="oreo-mr1" />
