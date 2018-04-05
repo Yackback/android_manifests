@@ -6,7 +6,20 @@
   <project name="yackback/device_motorola_sanders" path="device/motorola/sanders" remote="gh" revision="nitrogen-o2"/>
   <project name="BigTopKrazies/vendor_motorola_sanders" path="vendor/motorola/sanders" remote="gh" revision="8.1" />
   <project name="yackback/android_kernel_motorola_msm8953" path="kernel/motorola/msm8953" remote="gh" revision="8.1-64" />
-
+  
+  <!--
+  <remove-project name="android_hardware_qcom_display-caf-msm8996" />
+  <remove-project name="android_hardware_qcom_audio-caf-msm8996" />
+  <remove-project name="android_hardware_qcom_media-caf-msm8996" />
+  <remove-project name="android_vendor_qcom_opensource_dataservices"/>
+  <remove-project name="android_device_qcom_sepolicy"/>
+  
+  <project name="omnirom/android_hardware_qcom_display-caf-msm8996" path="hardware/qcom/display-caf-msm8996" remote="gh" revision="android-8.1"/>
+  <project name="omnirom/android_hardware_qcom_audio-caf-msm8996" path="hardware/qcom/audio-caf-msm8996" remote="gh" revision="android-8.1"/>
+  <project name="omnirom/android_hardware_qcom_media-caf-msm8996" path="hardware/qcom/media-caf-msm8996" remote="gh" revision="android-8.1"/>
+  <project name="omnirom/vendor_qcom_opensource_dataservices" path="vendor/qcom/opensource/dataservices" remote="gh" revision="android-8.1"/>
+  <project name="omnirom/android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="gh" revision="android-8.1"/>-->
+  
   <project name="PixelExperience/packages_resources_MotoActions" path="packages/resources/MotoActions" remote="gh" revision="oreo-mr1" />
   <project name="AospExtended/platform_system_qcom" path="system/qcom" remote="gh" revision="8.1.x" />
 
